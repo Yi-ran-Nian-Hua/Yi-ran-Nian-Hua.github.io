@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'LXGWWenKaiGB';
+    font-display: swap;
+    src: url('./LXGWWenKaiGBScreenR.ttf') format(truetype);
+}
+
+@font-face {
+    font-family: 'JetRegular';
+    font-display: swap;
+    src: url('./JetBrainsMono-Regular.ttf') format(truetype);
+}
+
+@font-face {
+    font-family: 'JetItalic';
+    font-display: swap;
+    src: url('./JetBrainsMono-Italic.ttf') format(truetype);
+}
+
+@font-face {
+    font-family: 'JetBold';
+    font-display: swap;
+    src: url('./JetBrainsMono-Bold.ttf') format(truetype);
+}
+
+@font-face {
+    font-family: 'JetBoldItalic';
+    font-display: swap;
+    src: url('./JetBrainsMono-BoldItalic.ttf') format(truetype);
+}
+
+@font-face {
+    font-family: 'JetMedium';
+    font-display: swap;
+    src: url('./JetBrainsMono-Medium.ttf') format(truetype);
+}
